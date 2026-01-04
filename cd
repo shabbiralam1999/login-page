@@ -1,8 +1,0 @@
-#Read the number of attended students
-input2 =("How Many Students Come to Class?")
-
-#Read the  number of total students
-input1 =("The total Number")
-
-#The number of student absent
-print(input2-input1)
